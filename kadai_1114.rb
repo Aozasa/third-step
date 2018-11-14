@@ -32,7 +32,7 @@ eng.each{ |x|
 	print("	　",i," ",eng_dev,"\n")
 }
 
-print("\n点数が高い順\n理科\n")
+print("\n降順ソート\n理科\n")
 
 sci.sort.reverse.each{ |x|
 	print("	　",x,"\n")
